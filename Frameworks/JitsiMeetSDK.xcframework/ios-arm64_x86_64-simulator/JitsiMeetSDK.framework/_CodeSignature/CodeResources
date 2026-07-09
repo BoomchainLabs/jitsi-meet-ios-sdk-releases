@@ -416,7 +416,7 @@
 		</data>
 		<key>Headers/JitsiMeet.h</key>
 		<data>
-		gSTYgM6d7txTM53HA8yxkJgK94A=
+		Z4W0S8aK1PWuVPDgzfS4pOJpFJ4=
 		</data>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -452,7 +452,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UaIXODxlYe588cjhpvBKGDRdQP8=
+		g4KaJS/V7QlCwUR5k6ynAoNIyT0=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -472,7 +472,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6VXkk8Ro3aojc07ms7TuvBkm/t0=
+		uxPreR6glZGUtKQ2ipcXPmYIyf4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -492,7 +492,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7WXebEcvmKftqPCnZNeer0vxF+I=
+		HBeWhavJODFQlPYVf5Nm8muZvTs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -516,7 +516,7 @@
 		</data>
 		<key>RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
 		<data>
-		L20F+EC0lTsRGUdVhPEfN8Luf3E=
+		lPpoKgFT482YJ3tZolnC7XHv3jc=
 		</data>
 		<key>RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -524,7 +524,7 @@
 		</data>
 		<key>RNSVGFilters.bundle/Info.plist</key>
 		<data>
-		WFA7HtGf65kYI354tJ7+0vAka8o=
+		mF2wrDjNVwZsNfbotbJ/hYJHWgc=
 		</data>
 		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
 		<data>
@@ -536,7 +536,7 @@
 		</data>
 		<key>React-Core_privacy.bundle/Info.plist</key>
 		<data>
-		owaYBtMMlwwDUiRiTtIusY9FB3o=
+		q6bCKjfdvJ/c4dVLB7Ur+16jUAY=
 		</data>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -544,7 +544,7 @@
 		</data>
 		<key>React-cxxreact_privacy.bundle/Info.plist</key>
 		<data>
-		jr+hpfXH2xQ0/LMong/yoGqr4bk=
+		qEi6uf3bndAIfC3phuVxnibNiPs=
 		</data>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -768,7 +768,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		DucILoEXOS2qamipQhCJY+KstmA=
+		SF15Kycyl7ELdw6M8CVy05gUz84=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1518,7 +1518,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OvYwVywd4wYmfO1Tf2pPOtZ+qyL+x8DiLHb9jOP08SU=
+			qF9GArEcQAwdb/JxN03csQ1AHlcwxqO1tg9K2OUZjfw=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
@@ -1609,7 +1609,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8hQ06ERzkagFvTiIIm1WOmsv25uo2wPI6QzKQz0NRbQ=
+			1kHXsr4nbSqsYGilh4I67iLxiEoymXofqdhetXEc/LQ=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1644,7 +1644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OQkrDTihrsfjOot5PQd2FygpRghzLcqGiZYV9/GTG4M=
+			OZmdtiwhDAcJZS9G/04AtTHgTpgU/WaiUq789dz6qVI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1686,7 +1686,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6nbd6l05ko/rIbrW/8FcIjeCrOlsffvMZpOX7rzM8XI=
+			PsN1i89FFsBiCAPjRWMb4UPPnVAd+ogEjbY8IhwBsbw=
 			</data>
 		</dict>
 		<key>RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
@@ -1700,7 +1700,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WA5pAnmjnNetPo/4VkYAdoTE32ksTpncTZCaldOT2Iw=
+			G75cOv4wwFBXsHI1tGADdeJqSY18S4cVHCyverggSAM=
 			</data>
 		</dict>
 		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
@@ -1721,7 +1721,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sAxnvOnDn9VZrRfhmdbzJysmC1OMqpZiOs9uuw8TtYw=
+			ABUH0yaVH+6ibKr1iznXcAoRQ92FfqdFmeg83HbNMMI=
 			</data>
 		</dict>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1735,7 +1735,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mYfPBWok57G0f9bLjrsot9hUiF+JqhY1Av08HXuwhIU=
+			phImKBTLZoFpyKJcFhdm0LHMXfil5lNhksTsUh9+JQA=
 			</data>
 		</dict>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -2127,7 +2127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gzx8gteC+XSvEiclytNsgwJgsnDpMSyeupbkRC0Sg/g=
+			kEUgja/hIdyx8zpM4oQYppNDq6gxSJkMrWOkTrId4JQ=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
