@@ -20,14 +20,14 @@ let package = Package(
             path: "Frameworks/JitsiMeetSDK.xcframework"
         ),
         .binaryTarget(
-            name: "hermes",
-            path: "Frameworks/hermes.xcframework"
+            name: "hermesvm",
+            path: "Frameworks/hermesvm.xcframework"
         ),
         .target(
             name: "JitsiMeetSDKWrapper",
             dependencies: [
                 .target(name: "JitsiMeetSDK"),
-                .target(name: "hermes"),
+                .target(name: "hermesvm"),
                 .product(name: "WebRTC", package: "webrtc"),
                 .product(name: "GiphyUISDK", package: "giphy-ios-sdk")
             ],
