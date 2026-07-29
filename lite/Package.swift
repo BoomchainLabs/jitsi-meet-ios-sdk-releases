@@ -20,7 +20,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "hermes",
-            path: "../lite/Frameworks/hermes.xcframework"
+            path: "../lite/Frameworks/hermesvm.xcframework"
         ),
         .target(
             name: "JitsiMeetSDKWrapper",
